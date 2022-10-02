@@ -1,0 +1,3 @@
+The model has 99.33% sparse_categorial_accuracy after 15th epoch on the training set. However, its sparse_categorial_accuracy on the test set is 97.88%
+The model shows accuracy of 83.33% on the sample digits used here. It is a decent accuracy for a basic NN model, considering the small amount of samples available.
+However, this will be improved further by studying the variance and bias values, and checking for possibilities overfitting. The algorithm can be improved further by adding a more units in the dense layers.
